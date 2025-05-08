@@ -13,22 +13,7 @@ Ce projet est utilisé sur [hugnews.fr](https://hugnews.fr), un site démo perso
 
 ## 📁 Structure du dépôt
 
-hugnews-ai-news/
-├── server/ # Scripts Python de démonstration
-│ ├── main.py # Point d’entrée
-│ ├── nlp_analysis.py # Analyse de sentiment avec Roberta/BERT
-│ ├── news_fetcher.py # Simulation de récupération d’articles
-│ ├── wp_publish.py # Simulation de publication WordPress
-│ ├── config.example.json
-│ └── README.md # Documentation Python
-│
-├── wordpress/
-│ ├── hugnews-ai-news-filter.php # Plugin principal WordPress
-│ ├── admin/
-│ │ ├── hugnews-settings.php # Lancement manuel des scripts
-│ │ ├── cron_logs.php # Affichage des logs NLP
-│ │ └── run_script.php # Exécution serveur via shell_exec
-│ └── README.md # Documentation WordPress
+<pre lang="markdown"> ## 📁 Structure du dépôt ``` hugnews-ai-news/ ├── server/ # Scripts Python de démonstration │ ├── main.py # Point d’entrée │ ├── nlp_analysis.py # Analyse de sentiment avec Roberta/BERT │ ├── news_fetcher.py # Simulation de récupération d’articles │ ├── wp_publish.py # Simulation de publication WordPress │ ├── config.example.json │ └── README.md # Documentation Python │ ├── wordpress/ │ ├── hugnews-ai-news-filter.php # Plugin principal WordPress │ ├── admin/ │ │ ├── hugnews-settings.php # Lancement manuel des scripts │ │ ├── cron_logs.php # Affichage des logs NLP │ │ └── run_script.php # Exécution serveur via shell_exec │ └── README.md # Documentation WordPress ``` </pre>
 
 ---
 
