@@ -1,0 +1,10 @@
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers de configuration sensible
+.env
+config.json
+
+# Logs ou fichiers de sortie éventuels
+*.log

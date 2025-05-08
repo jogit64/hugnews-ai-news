@@ -1,0 +1,14 @@
+{
+  "wordpress": {
+    "url": "https://example.com/wp-json/wp/v2",
+    "category_id": 42
+  },
+  "keywords": [
+    "écologie",
+    "bienveillance",
+    "santé naturelle",
+    "alimentation végétale",
+    "éveil",
+    "solidarité"
+  ]
+}
