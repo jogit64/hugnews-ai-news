@@ -38,8 +38,6 @@ Le système a été conçu pour :
 
 ---
 
----
-
 ## 🧩 Vue d’ensemble du projet Hugnews
 
 Le projet Hugnews comprend plusieurs plugins complémentaires, développés pour automatiser la production, le filtrage et la diffusion de contenu éthique :
