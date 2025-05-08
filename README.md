@@ -38,6 +38,36 @@ Le système a été conçu pour :
 
 ---
 
+---
+
+## 🧩 Vue d’ensemble du projet Hugnews
+
+Le projet Hugnews comprend plusieurs plugins complémentaires, développés pour automatiser la production, le filtrage et la diffusion de contenu éthique :
+
+### 🔹 Hugnews AI NEWS _(ce dépôt)_
+
+Génération automatique d’articles inspirants à partir de plusieurs APIs d’actualité, filtrage sémantique, analyse de sentiment (Roberta / BERT), validation éthique via GPT-4 et publication vers WordPress.
+
+### 🔹 Hugnews AI RSS _(non publié ici)_
+
+Pipeline similaire au précédent, mais basé sur l'import de flux RSS ciblés. Intègre les mêmes filtres de tonalité, d’éthique, d’image et de doublon. Actif en production.
+
+### 🔹 Hugnews AI Writer
+
+Génération complète d’articles originaux par GPT-4 sur des thématiques choisies. Mode batch ou individuel, prompts dynamiques, images et tags automatisés.
+
+### 🔹 Positive Video Generator
+
+Intégration de vidéos inspirantes issues de plateformes libres de droits, filtrées par mots-clés et thématiques.
+
+### 🔧 HugNews Cache Preloader
+
+Plugin technique de préchargement du cache WordPress via script Python simulant des visites réelles (desktop, mobile), configurable par interface ou CLI.
+
+> Pour plus d’informations, voir la présentation complète des modules sur la page [À propos de Hugnews.fr](https://hugnews.fr/a-propos/)
+
+---
+
 ## 🔗 Pour aller plus loin
 
 - [README Python (server)](./server/README.md)
