@@ -7,7 +7,7 @@ Ce système se compose de deux parties :
 - 🧠 Une **partie Python (démo)**, responsable de la collecte, de l'analyse NLP et de la préparation des articles.
 - 🛠 Une **partie WordPress (plugin réel)**, permettant de suivre, lancer et contrôler les traitements depuis l'administration du site.
 
-Ce projet est utilisé sur [hugnews.fr](https://hugnews.fr), un site démo personnel conçu comme **preuve de concept** dans le cadre d’un portfolio.
+Ce projet est utilisé sur [hugnews.fr](https://hugnews.fr), un site démo personnel conçu comme **illustration technique personnelle** dans le cadre d’un portfolio.
 
 ---
 
